@@ -1,0 +1,8 @@
+{
+  "name": "NetStore Pro - Networking Solutions",
+  "description": "A high-performance e-commerce platform for networking equipment featuring admin management, financial controls, and integrated shipping calculation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
